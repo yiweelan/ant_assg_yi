@@ -1,0 +1,15 @@
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\bin\Debug\net6.0\Assg1.exe
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\bin\Debug\net6.0\Assg1.deps.json
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\bin\Debug\net6.0\Assg1.runtimeconfig.json
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\bin\Debug\net6.0\Assg1.dll
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\bin\Debug\net6.0\Assg1.pdb
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\Assg1.csproj.AssemblyReference.cache
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\Assg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\Assg1.AssemblyInfoInputs.cache
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\Assg1.AssemblyInfo.cs
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\Assg1.csproj.CoreCompileInputs.cache
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\Assg1.dll
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\refint\Assg1.dll
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\Assg1.pdb
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\Assg1.genruntimeconfig.cache
+C:\Shortcuts\Design\icc\antra c sharp\Assg1\Assg1\obj\Debug\net6.0\ref\Assg1.dll
