@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assg3Q1", "Assg3\Assg3Q1.csproj", "{784C5B95-04DC-4D24-8085-FE9AB1AD118A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q2Fibonacci", "Q2Fibonacci\Q2Fibonacci.csproj", "{3F325BD9-0283-4083-AF78-75ED925D847F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignOOP", "DesignOOP\DesignOOP.csproj", "{78C516DD-0027-4FC8-8B15-95EDF64ECFB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784C5B95-04DC-4D24-8085-FE9AB1AD118A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784C5B95-04DC-4D24-8085-FE9AB1AD118A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784C5B95-04DC-4D24-8085-FE9AB1AD118A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784C5B95-04DC-4D24-8085-FE9AB1AD118A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F325BD9-0283-4083-AF78-75ED925D847F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F325BD9-0283-4083-AF78-75ED925D847F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F325BD9-0283-4083-AF78-75ED925D847F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F325BD9-0283-4083-AF78-75ED925D847F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C516DD-0027-4FC8-8B15-95EDF64ECFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C516DD-0027-4FC8-8B15-95EDF64ECFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C516DD-0027-4FC8-8B15-95EDF64ECFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C516DD-0027-4FC8-8B15-95EDF64ECFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598AFF1A-2B2C-4C03-BE53-3D49525EE1B3}
+	EndGlobalSection
+EndGlobal

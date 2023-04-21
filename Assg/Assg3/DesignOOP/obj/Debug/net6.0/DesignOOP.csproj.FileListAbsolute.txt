@@ -1,0 +1,15 @@
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\bin\Debug\net6.0\DesignOOP.exe
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\bin\Debug\net6.0\DesignOOP.deps.json
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\bin\Debug\net6.0\DesignOOP.runtimeconfig.json
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\bin\Debug\net6.0\DesignOOP.dll
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\bin\Debug\net6.0\DesignOOP.pdb
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\DesignOOP.csproj.AssemblyReference.cache
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\DesignOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\DesignOOP.AssemblyInfoInputs.cache
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\DesignOOP.AssemblyInfo.cs
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\DesignOOP.csproj.CoreCompileInputs.cache
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\DesignOOP.dll
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\refint\DesignOOP.dll
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\DesignOOP.pdb
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\DesignOOP.genruntimeconfig.cache
+C:\Shortcuts\Design\icc\antra c sharp\Assg3\DesignOOP\obj\Debug\net6.0\ref\DesignOOP.dll
