@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+
+        th,
+        td,
+        input {
+            width: 100px;
+            height: 100px;
+            text-align: center;
+        }
+
+        input,
+        th {
+            font-size: 20px;
+            color: blue;
+        }
+
+        input {
+            background: linear-gradient(to bottom, #ffffff 50%, #ccffff 100%);
+        }
+
+        .nest-table input,
+        .nest-table td {
+            text-align: center;
+            height: 50px;
+            font-size: 16px;
+        }
+
+        .table-title {
+            background-color: rgb(242, 237, 237);
+        }
+
+        .colspan2 {
+            width: 200px;
+        }
+
+        .colspan3 {
+            width: 300px;
+            text-align: right;
+            vertical-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <table>
+            <tr>
+                <th colspan="4" class="table-title">Antra Life</th>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <form action="https://www.google.com/">
+                        <input type="submit" formtarget="_blank" value="Google" class="colspan2" />
+                    </form>
+                </td>
+                <td colspan="2">
+                    <form action="https://github.com/">
+                        <input type="submit" formtarget="_blank" value="GitHub" class="colspan2" />
+                    </form>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <form action="https://www.facebook.com/">
+                        <input type="submit" formtarget="_blank" value="Facebook" />
+                    </form>
+                </td>
+                <td>
+                    <form action="https://mail.google.com/mail/">
+                        <input type="submit" formtarget="_blank" value="GMail" />
+                    </form>
+                </td>
+                <td>
+                    <form action="https://www.youtube.com/">
+                        <input type="submit" formtarget="_blank" value="YouTube" />
+                    </form>
+                </td>
+                <td>
+                    <form action="https://play2048.co/">
+                        <input type="submit" formtarget="_blank" value="2048" />
+                    </form>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <form action="https://www.yelp.com/">
+                        <input type="submit" formtarget="_blank" value="Food" />
+                    </form>
+                </td>
+                <td colspan="2">
+                    <form action="https://www.gamestop.com/">
+                        <input type="submit" formtarget="_blank" value="Game" class="colspan2" />
+                    </form>
+                </td>
+                <td style="padding: 10px;">
+                    <table class="nest-table">
+                        <tr>
+                            <td>
+                                <form action="https://www.psychologytoday.com/us/basics/social-life">
+                                    <input type="submit" formtarget="_blank" value="Social life" />
+                                </form>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <form action="https://youtu.be/yIQd2Ya0Ziw">
+                                    <input type="submit" formtarget="_blank" value="Sleep" />
+                                </form>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="text-align: right; vertical-align: center;">
+                    <form action="https://www.amazon.com/">
+                        <input type="submit" formtarget="_blank" value="Beer &gt;&gt;&gt;" class="colspan3" />
+                    </form>
+                </td>
+                <td>
+                    <form action="https://www.yahoo.com/">
+                        <input type="submit" formtarget="_blank" value="WC" />
+                    </form>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
