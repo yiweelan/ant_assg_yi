@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+
+    <title>Problem 3</title>
+
+    <style>
+        /* * {
+            border: 1px solid black;
+        } */
+
+        .antra-logo {
+            width: 20%;
+            height: 20%;
+        }
+
+        #apply {
+            background-color: rgb(230, 149, 28);
+            padding: 2px 15px;
+        }
+
+        #apply a {
+            color: white;
+        }
+
+        #bar {
+            height: 120px;
+        }
+
+        .news {
+            margin-top: 5%;
+            font-size: 25px;
+        }
+
+        .news-image {
+            width: 200px;
+            height: 200px;
+            padding-left: 25px;
+        }
+
+        body {
+            background-color: gainsboro;
+        }
+
+        .title {
+            color: rgb(40, 100, 212);
+            font-weight: bold;
+            padding: 25px 25px;
+            font-size: 18px;
+        }
+
+        .date {
+            text-align: right;
+            padding-right: 25px;
+        }
+
+        .author,
+        .text {
+            padding-left: 25px;
+            color: grey;
+        }
+
+        .tags {
+            font-weight: bold;
+            padding: 5px 25px;
+        }
+
+        .tags>span {
+            font-weight: bolder;
+            color: grey;
+        }
+
+        .col {
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+
+        .pagination {
+            margin-top: 30px;
+        }
+
+        .page-link {
+            background-color: rgb(90, 186, 218);
+            color: white;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="site-header">
+        <nav class="navbar navbar-light" style="background-color: white;">
+            <a class="navbar-brand" href="#">
+                <img src="https://antra.com/wp-content/uploads/2023/03/Antra-black.png" width="30" height="30"
+                    alt="logo" class="antra-logo">
+            </a>
+        </nav>
+
+        <nav class="navbar navbar-light d-flex flex-row-reverse" id="bar"
+            style="background-image: url(https://static.vecteezy.com/system/resources/previews/001/632/448/original/dark-blue-stripes-geometric-overlapping-background-free-vector.jpg)">
+            <ul class="navbar-nav mr-5">
+                <li class="nav-item" id="apply">
+                    <a class="nav-link" href="#">Apply Now</a>
+                </li>
+
+            </ul>
+        </nav>
+    </div>
+
+    <div class=" container">
+        <div class="news">
+            <header style="color: rgb(40, 100, 212);">News</header>
+        </div>
+        <div class="row mt-5 justify-content-between">
+            <div class="col" style="background-color: white;">
+                <header class="title">Level #0 starts on the 5th of July</header>
+                <p class="date">18/06/2014</p>
+                <p class="author">Published by: Alexandra Svilarova</p>
+                <img src="https://img.freepik.com/free-vector/hand-drawn-annual-calendar-template_23-2149716984.jpg?w=2000"
+                    alt="calendar" class="news-image" />
+                <p class="text">The deadline for application is extended to the 3rd of July</p>
+                <p class="tags"><span>Tags:</span> antra-inc home-page antra apply deadline
+                    application July
+                </p>
+            </div>
+
+            <div class="col" style="background-color: white;">
+                <header class="title">Summer break + schedule for level #1</header>
+                <p class="date">13/06/2014</p>
+                <p class="author">Published by: Alexandra Svilarova</p>
+                <img src="https://community.thriveglobal.com/wp-content/uploads/2020/06/summer.jpg" alt="calendar"
+                    class="news-image" />
+                <p class="text">Summer break 2-10 august</p>
+                <p class="tags"><span>Tags:</span> antra-inc home-page antra schedule summer-vacation
+                    exams
+                </p>
+            </div>
+
+            <div class="col" style="background-color: white;">
+                <header class="title">Feedback from Antra Inc CONF MAY 2014</header>
+                <p class="date">02/06/2014</p>
+                <p class="author">Published by: Petya Grozdarska</p>
+                <img src="https://www.ppic.org/wp-content/uploads/bcc-option-1.jpg" alt="calendar" class="news-image" />
+                <p class="text">Responses from the questionnaire abot the usefulness of the first Antra Inc Conf</p>
+                <p class="tags"><span>Tags:</span> antra-inc home-page antra-conf conference feedback
+                    exams
+                </p>
+            </div>
+
+        </div>
+
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link" href="#">4</a></li>
+                <li class="page-item"><a class="page-link" href="#">5</a></li>
+                <li class="page-item"><a class="page-link" href="#">&gt;</a></li>
+            </ul>
+        </nav>
+    </div>
+
+
+</body>
+
+</html>
